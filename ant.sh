@@ -2,7 +2,6 @@ file addede
 antothr line added
 2nd line added and changed the data
 <<<<<<< HEAD
-SAN-3 comited
-=======
+SAN-3 comiteD
 changed for SAN-3
 >>>>>>> 90c5bec611d0542016fd95f42baa02c61597c1e4
